@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "postinstall": "cd ../../ && rnpm link react-native-vector-icons && rnpm link react-native-permissions && rnpm link react-native-fs"
+    "postinstall": "cd ../../ && rnpm link react-native-vector-icons && rnpm link react-native-permissions && rnpm link react-native-fs && rnpm link react-native-code-push && rnpm link react-native-firebase-analytics"
   },
   "dependencies": {
     "lodash": "^4.17.4",
