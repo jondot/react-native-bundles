@@ -19,8 +19,6 @@ In other words, turn this:
     "lodash": "^4.16.6",
     "nachos-ui": "^0.1.2",
     "ramda": "^0.23.0",
-    "react": "~15.4.0-rc.4",
-    "react-native": "0.40.0",
     "react-native-app-intro": "^1.1.5",
     "react-native-code-push": "^1.15.0-beta",
     "react-native-contacts": "^0.7.1",
@@ -32,11 +30,13 @@ In other words, turn this:
 
 Into this:
 
-```
+```js
 {
   // in package.json
   // ...
   "dependencies": {
+    "rnbundle-core": "0.1.0",
+    "rnbundle-redux": "0.1.0",
     "rnbundle-chat-app": "0.4.0",
   }
 }

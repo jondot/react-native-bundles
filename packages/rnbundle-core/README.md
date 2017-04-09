@@ -21,8 +21,9 @@ native resources and code using `rnpm`.
 
 ## What's Included?
 
-- `lodash` - self-explanatory.
-- `react-native-vector-icons` - shortcircuit needing custom assets with sets
+- [`lodash`](https://www.npmjs.com/package/lodash) - self-explanatory.
+- [`react-native-vector-icons`](https://www.npmjs.com/package/react-native-vector-icons) - shortcircuit needing custom assets with sets
 of scalable standard icons.
-- `react-native-permissions` - ask all permission types with a single API.
-- `react-native-fs` - access the device's filesystem.
+- [`react-native-permissions`](https://www.npmjs.com/package/react-native-permissions) - ask all permission types with a single API.
+- [`react-native-fs`](https://www.npmjs.com/package/react-native-fs) - access the device's filesystem.
+

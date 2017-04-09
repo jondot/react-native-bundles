@@ -1,0 +1,20 @@
+{
+  "name": "rnbundle-chat-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cd ../../ && rnpm link react-native-contacts && rnpm link react-native-fcm"
+  },
+  "dependencies": {
+    "@exponent/ex-navigation": "^2.9.1",
+    "axios": "^0.16.1",
+    "react-native-contacts": "^0.8.1",
+    "react-native-fcm": "^6.2.0",
+    "react-native-gifted-chat": "^0.1.4",
+    "react-native-swipe-out": "^2.0.14"
+  },
+  "devDependencies": {
+    "rnpm": "*"
+  }
+}

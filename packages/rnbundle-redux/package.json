@@ -1,0 +1,25 @@
+{
+  "name": "rnbundle-redux",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "ramda": "^0.23.0",
+    "react-redux": "^5.0.3",
+    "redux": "^3.6.0",
+    "redux-actions": "^2.0.1",
+    "redux-create-reducer": "^1.1.1",
+    "redux-duet": "^1.0.2",
+    "redux-logger": "^3.0.1",
+    "redux-persist": "^4.6.0",
+    "redux-persist-transform-immutable": "^4.2.0",
+    "redux-promise-middleware": "^4.2.0",
+    "redux-stack": "^1.0.1",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.0"
+  },
+  "devDependencies": {
+    "rnpm": "*"
+  }
+}

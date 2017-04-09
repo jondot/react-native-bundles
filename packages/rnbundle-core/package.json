@@ -8,6 +8,10 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
+    "react-native-animatable": "^1.1.1",
+    "react-native-app-intro": "^1.1.5",
+    "react-native-code-push": "^2.0.1-beta",
+    "react-native-firebase-analytics": "^3.0.0",
     "react-native-fs": "^2.1.0-rc.1",
     "react-native-permissions": "^0.2.7",
     "react-native-vector-icons": "^4.0.1"
