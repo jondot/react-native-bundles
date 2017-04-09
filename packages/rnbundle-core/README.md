@@ -26,4 +26,13 @@ native resources and code using `rnpm`.
 of scalable standard icons.
 - [`react-native-permissions`](https://www.npmjs.com/package/react-native-permissions) - ask all permission types with a single API.
 - [`react-native-fs`](https://www.npmjs.com/package/react-native-fs) - access the device's filesystem.
+- [`react-native-animatable`](https://www.npmjs.com/package/react-native-animatable) - Easy prepackaged animations.
+- [`react-native-app-intro`](https://www.npmjs.com/package/react-native-app-intro) - Every app needs an intro.
+- [`react-native-code-push`](https://www.npmjs.com/package/react-native-code-push) - Code push (needs configuration).
+- [`react-native-firebase-analytics`](https://www.npmjs.com/package/react-native-firebase-analytics) - Analytics (needs configuration).
+
+## Extra Configuration
+
+- Firebase needs an SDK. See more [here](https://github.com/evollu/react-native-fcm#ios-configuration).
+- Codepush needs an SDK and some manual work. See more [here](http://microsoft.github.io/code-push/docs/react-native.html#link-4).
 
