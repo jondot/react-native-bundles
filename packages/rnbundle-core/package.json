@@ -1,15 +1,16 @@
 {
   "name": "rnbundle-core",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "postinstall": "cd ../../ && rnpm link react-native-vector-icons && rnpm link react-native-permissions && rnpm link react-native-fs && rnpm link react-native-code-push && rnpm link react-native-firebase-analytics"
+    "postinstall": "cd ../../ && rnpm link react-native-vector-icons && rnpm link react-native-permissions && rnpm link react-native-fs && rnpm link react-native-code-push && rnpm link react-native-firebase-analytics && rnpm link react-native-blur"
   },
   "dependencies": {
     "lodash": "^4.17.4",
     "react-native-animatable": "^1.1.1",
     "react-native-app-intro": "^1.1.5",
+    "react-native-blur": "^2.0.0",
     "react-native-code-push": "^2.0.1-beta",
     "react-native-firebase-analytics": "^3.0.0",
     "react-native-fs": "^2.1.0-rc.1",
