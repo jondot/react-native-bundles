@@ -30,6 +30,7 @@ of scalable standard icons.
 - [`react-native-app-intro`](https://www.npmjs.com/package/react-native-app-intro) - Every app needs an intro.
 - [`react-native-code-push`](https://www.npmjs.com/package/react-native-code-push) - Code push (needs configuration).
 - [`react-native-firebase-analytics`](https://www.npmjs.com/package/react-native-firebase-analytics) - Analytics (needs configuration).
+- [`react-native-blur`](https://www.npmjs.com/package/react-native-blur) - Native blur and vibrance effects over views.
 
 ## Extra Configuration
 

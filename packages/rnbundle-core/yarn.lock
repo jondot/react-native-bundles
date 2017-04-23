@@ -786,6 +786,10 @@ react-native-app-intro@^1.1.5:
     assign-deep "^0.4.5"
     react-native-swiper "git+https://github.com/FuYaoDe/react-native-swiper.git"
 
+react-native-blur@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-blur/-/react-native-blur-2.0.0.tgz#284b3abfb42c2d90924aa15f494ccb88d6055342"
+
 react-native-code-push@^2.0.1-beta:
   version "2.0.1-beta"
   resolved "https://registry.yarnpkg.com/react-native-code-push/-/react-native-code-push-2.0.1-beta.tgz#9857b73f259ada3847f39f84683c3e63cf94ca9b"
