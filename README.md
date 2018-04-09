@@ -59,6 +59,27 @@ This will install the bundled libraries and components, and will link
 native resources and code using `rnpm`.
 
 
+## Rationale
+
+Maintaining the awesome list, and after having built a few apps and writing a
+book about it, I get asked these a lot of times. "What navigation library really
+work?", "Do X go well with Redux?", "Does Y work with MobX?"
+and so on. 
+
+People are always trying to navigate the bleeding edge and the fatigue that
+comes with it, and this is an attempt to alleviate that.
+
+Having used and maintained starter kits, in the general sense for bleeding
+edge technologies, they don't work. They are too complex to understand when
+you're a newcomer, too fragile and opinionated when you're experienced,
+and they become a pain to maintain when you're the creator so they often
+get abandoned or being rewritten.
+
+This project undercuts starter kits, and just lets you have the bare
+essentials. It fixes in place the architectural stack of components that work
+well together, and you wire it; leading to more confidence, understanding and
+cleaner maintenance.
+
 ## Adding Bundles
 
 Pull requests for new bundles to this list will be welcome. Here's some
